@@ -14,7 +14,7 @@ export const translations = {
       viewWork: 'View My Work',
       contactMe: 'Contact Me',
       scroll: 'scroll',
-      typingWords: ['Fullstack Developer', 'React Enthusiast', 'AI Integrator', 'Problem Solver'],
+      typingWords: ['Fullstack Developer', 'AI Integrator', 'Problem Solver', 'Business Thinker'],
     },
     about: {
       label: 'About Me',
@@ -87,7 +87,7 @@ export const translations = {
       viewWork: 'Xem Dự Án',
       contactMe: 'Liên Hệ',
       scroll: 'cuộn',
-      typingWords: ['Lập trình viên Fullstack', 'Đam mê React', 'Tích hợp AI', 'Giải quyết vấn đề'],
+      typingWords: ['Lập trình viên Fullstack', 'Tích hợp AI', 'Giải quyết vấn đề', 'Tư duy kinh doanh'],
     },
     about: {
       label: 'Về Tôi',
